@@ -11,15 +11,7 @@ public class Strings {
     public static final String COPYRIGHT = "2015-2020";
     static final int RESOURCEID = 23307;
     static final String WEBSITE = "https://www.spigotmc.org/resources/" + Strings.RESOURCEID;
-    static final String ASCIILOGO = "" +
-            "\n _     _                   _______ _                 _          " +
-            "\n(_)   | |                 (_______) |               | |  v" + Strings.VERSION +
-            "\n _____| |_____ _____ ____  _      | |__  _   _ ____ | |  _  ___ " +
-            "\n|  _   _) ___ | ___ |  _ \\| |     |  _ \\| | | |  _ \\| |_/ )/___)" +
-            "\n| |  \\ \\| ____| ____| |_| | |_____| | | | |_| | | | |  _ (|___ |" +
-            "\n|_|   \\_)_____)_____)  __/ \\______)_| |_|____/|_| |_|_| \\_|___/ " +
-            "\n                    |_|                                         " +
-            "\n\n";
+    static final String ASCIILOGO = "";
 
     public static final String NOPERM = Strings.GAMEPREFIX + "&cYou don't have permission to do that.";
     public static final String UNUSABLE = "&cOne or more values you've entered are unusable.";
